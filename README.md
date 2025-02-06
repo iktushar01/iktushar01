@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
-- **Learning:** React.js, Node.js, Cybersecurity  
+- **Learning:** javascript
 
 ### 📫 Connect With Me
 - **LinkedIn:** [Your LinkedIn Profile URL]  
@@ -32,12 +32,12 @@
 - **Blog:** [Your Blog URL]  
 
 ### 📊 GitHub Stats
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=iktushar01&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iktushar01&layout=compact&theme=radical)
 
 ### ⚡ Fun Fact
-I love exploring new technologies and playing casual games for **ASMR live streams**! 🎮😌
+I love exploring new technologies and playing casual games for **Fun Times**! 🎮😌
 
 ---
 🚀 *Let's build something amazing together!*
