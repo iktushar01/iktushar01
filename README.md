@@ -2,9 +2,8 @@
 
 ### 🚀 About Me
 - 🌱 I'm currently learning **Web Development** with Programming Hero.  
-- 💻 Web Developer | Cybersecurity Enthusiast | Blogger  
-- 🎯 Interested in **Full-Stack Development, AI, and Cybersecurity**  
-- 🎥 I also create content for my **YouTube gaming channel**!  
+- 💻 Aspiring Web Developer | Passionate About Learning.
+- 🎯 Interested in **Full-Stack Development.
 - 📖 I love learning and sharing knowledge through **blogs & open-source projects**.
 
 ### 🔧 Tech Stack
