@@ -27,7 +27,7 @@
 
 ### 📫 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/iktushar01/
-- **facebok:** https://www.facebook.com/ibrahim.khalil.tushar.2024
+- **faceb0ok:** https://www.facebook.com/ibrahim.khalil.tushar.2024
   
 
 ### 📊 GitHub Stats
