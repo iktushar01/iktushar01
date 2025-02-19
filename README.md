@@ -26,10 +26,9 @@
 - **Learning:** javascript
 
 ### 📫 Connect With Me
-- **LinkedIn:** [Your LinkedIn Profile URL]  
-- **GitHub:** [Your GitHub Profile URL]  
-- **YouTube:** [Your YouTube Channel URL]  
-- **Blog:** [Your Blog URL]  
+- **LinkedIn:** https://www.linkedin.com/in/iktushar01/
+- **facebok:** https://www.facebook.com/ibrahim.khalil.tushar.2024
+  
 
 ### 📊 GitHub Stats
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=iktushar01&show_icons=true&theme=radical)  
