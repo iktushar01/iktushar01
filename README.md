@@ -32,11 +32,7 @@
 </p>
 
 #### 📚 Currently Learning
-- **JavaScript (ES6+), React.js, Node.js, Express.js**
-- **MongoDB, Firebase, REST APIs**
-- **Tailwind CSS, Bootstrap**
-- **Git & GitHub Workflows**
-
+- **JavaScript (ES6+)**
 ---
 
 ### 📊 GitHub Stats
