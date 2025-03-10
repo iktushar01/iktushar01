@@ -9,6 +9,8 @@
 - 🎯 Focused on **JavaScript, React, and Backend Technologies**.
 - 🎮 Casual Gamer | Tech Enthusiast | Lifelong Learner.
 
+![Example Image]([https://example.com/path/to/your/image.png](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png))
+
 ---
 
 ### 🔥 Tech Stack
