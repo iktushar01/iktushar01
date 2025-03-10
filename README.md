@@ -5,7 +5,7 @@
 
 - 🎓 Currently learning **Web Development** with Programming Hero.  
 - 💡 Passionate about **Frontend & Backend Development**.
-- 📝 Writing **blogs** & contributing to **open-source** projects.
+- 💻 I enjoy working on both **fun, creative projects and real-world industry-level solutions**.
 - 🎯 Focused on **JavaScript, React, and Backend Technologies**.
 - 🎮 Casual Gamer | Tech Enthusiast | Lifelong Learner.
 
