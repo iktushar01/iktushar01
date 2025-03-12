@@ -43,7 +43,7 @@
   </div>
 
   <div>
-    <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0f16e8234887.gif](https://i.gifer.com/6tXM.gif" width="300" />
+    <img src="[https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0f16e8234887.gif](https://i.gifer.com/6tXM.gif](https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif)" width="300" />
   </div>
 
 </div>
