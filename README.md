@@ -17,35 +17,38 @@
 ## 🔥 Tech Stack  
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="60%">
-        <h3>🚀 Frontend Development</h3>
-        <p align="left">
-          <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/Webflow-%2300A4E4.svg?style=for-the-badge&logo=webflow&logoColor=white" />
-        </p>
-        <br>
-        <h3>🛠 Backend & Tools</h3>
-        <p align="left">
-          <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-          <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-        </p>
-        <br>
-        <h3>📚 Currently Learning</h3>
-        <p>
-          - **JavaScript (ES6+)**  
-          - **React.js**  
-        </p>
-      </td>
-      <td width="40%">
-        <img src="https://github.com/iktushar01/my_personal-file/raw/main/eef76b143584307.627d06916ce10.gif" width="100%" />
-      </td>
-    </tr>
-  </table>
+
+<table>
+  <tr>
+    <td width="60%">
+      
+### 🚀 Frontend Development  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Webflow-%2300A4E4.svg?style=for-the-badge&logo=webflow&logoColor=white" />
+</p>
+
+### 🛠 Backend & Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### 📚 Currently Learning  
+- **JavaScript (ES6+)**  
+- **React.js**  
+
+    </td>
+    <td width="40%">
+      <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="100%" />
+    </td>
+  </tr>
+</table>
+
 </div>
+
 
 <!-- CSS for responsiveness -->
 <style>
