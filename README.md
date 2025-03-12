@@ -21,7 +21,7 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 100%; padding: 10px; text-align: center;">
-      <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="100%" />
+      <img src="https://github.com/iktushar01/my_personal-file/blob/main/eef76b143584307.627d06916ce10.gif" width="100%" />
     </td>
   </tr>
   <tr>
@@ -50,26 +50,6 @@
 </table>
 
 </div>
-
-<!-- CSS for responsiveness -->
-<style>
-  @media only screen and (max-width: 768px) {
-    table {
-      width: 100%;
-      display: block;
-    }
-    td {
-      width: 100%;
-      display: block;
-      text-align: center;
-      padding: 10px 0;
-    }
-    td img {
-      width: 80%;
-    }
-  }
-</style>
-
 
 ---
 
