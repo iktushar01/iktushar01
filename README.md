@@ -17,11 +17,9 @@
 ## 🔥 Tech Stack  
 
 <div align="center">
-
-  <table width="100%">
+  <table>
     <tr>
-      <!-- Text Column -->
-      <td width="100%" style="vertical-align: top; padding: 10px;">
+      <td width="60%">
         <h3>🚀 Frontend Development</h3>
         <p align="left">
           <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -29,31 +27,39 @@
           <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
           <img src="https://img.shields.io/badge/Webflow-%2300A4E4.svg?style=for-the-badge&logo=webflow&logoColor=white" />
         </p>
-
-   <br>
+        <br>
         <h3>🛠 Backend & Tools</h3>
         <p align="left">
           <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
           <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
         </p>
-
-   <br>
+        <br>
         <h3>📚 Currently Learning</h3>
         <p>
           - **JavaScript (ES6+)**  
           - **React.js**  
         </p>
       </td>
-    </tr>
-    <tr>
-      <!-- Image Column -->
-      <td width="100%" style="padding: 10px; text-align: center;">
+      <td width="40%">
         <img src="https://github.com/iktushar01/my_personal-file/raw/main/eef76b143584307.627d06916ce10.gif" width="100%" />
       </td>
     </tr>
   </table>
-
 </div>
+
+<!-- CSS for responsiveness -->
+<style>
+  @media only screen and (max-width: 768px) {
+    table {
+      width: 100%;
+    }
+    td {
+      width: 100%;
+      display: block;
+      text-align: center;
+    }
+  }
+</style>
 
 ---
 
