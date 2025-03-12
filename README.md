@@ -1,4 +1,4 @@
-<div align="center "width: 400px">
+<div align="center "width: 200px">
     <img src="https://github.com/iktushar01/my_personal-file/blob/main/eef76b143584307.627d06916ce10.gif" width="100%" />
 </div>
 
