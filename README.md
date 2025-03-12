@@ -8,14 +8,6 @@
 
 ---
 
-<div align="center">
-  <a href="https://www.pinterest.com/pin/401313016814099225/" target="_blank">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF">
-  </a>
-</div>
-
----
-
 ## 🔥 Tech Stack  
 
 <div align="center">
