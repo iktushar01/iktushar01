@@ -18,35 +18,35 @@
 
 ## 🔥 Tech Stack  
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  
-  <div>
-  
-  ### 🚀 Frontend Development  
-  <p align="left">
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Webflow-%2300A4E4.svg?style=for-the-badge&logo=webflow&logoColor=white" />
-  </p>
+<table>
+  <tr>
+    <td>
+      
+      ### 🚀 Frontend Development  
+      <p align="left">
+        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Webflow-%2300A4E4.svg?style=for-the-badge&logo=webflow&logoColor=white" />
+      </p>
 
-  ### 🛠 Backend & Tools  
-  <p align="left">
-    <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </p>
+      ### 🛠 Backend & Tools  
+      <p align="left">
+        <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+      </p>
 
-  ### 📚 Currently Learning  
-  - **JavaScript (ES6+)**  
-  - **React.js**  
+      ### 📚 Currently Learning  
+      - **JavaScript (ES6+)**  
+      - **React.js**  
 
-  </div>
+    </td>
+    <td>
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0f16e8234887.gif" width="300"/>
+    </td>
+  </tr>
+</table>
 
-  <div>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF">
-  </div>
-
-</div>
 
 ---
 
