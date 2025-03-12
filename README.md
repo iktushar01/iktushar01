@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center "width: 400px">
     <img src="https://github.com/iktushar01/my_personal-file/blob/main/eef76b143584307.627d06916ce10.gif" width="100%" />
 </div>
 
@@ -22,8 +22,7 @@
   <tr>
     <td style="width: 100%; padding: 10px; text-align: center;">
       <img src="https://github.com/iktushar01/my_personal-file/raw/main/Tired%20Now.gif" alt="Tired Now" />
-  
-    </td>
+  </td>
   </tr>
   <tr>
     <td style="width: 100%; padding: 10px;">
