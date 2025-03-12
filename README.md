@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://github.com/iktushar01/my_personal-file/raw/main/Tired%20Now.gif" alt="Tired Now" />
+</div>
+
+---
+
 ## 🚀 Aspiring Full-Stack Developer | Passionate About Learning & Sharing Knowledge  
 
 - 🎓 Currently learning **Web Development** with Programming Hero.  
