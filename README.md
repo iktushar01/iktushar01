@@ -40,38 +40,53 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=iktushar01&show_icons=true&theme=radical&count_private=true" alt="Tushar's GitHub stats" />
-  <br>
+
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=iktushar01&show_icons=true&theme=radical&count_private=true" alt="Tushar's GitHub Stats" />
+    </td>
+  </tr>
   
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.vercel.app/?user=iktushar01&theme=radical" alt="Tushar's GitHub Streak" />
-  <br>
-  
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iktushar01&layout=compact&theme=radical" alt="Top Languages" />
-  <br>
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.vercel.app/?user=iktushar01&theme=radical" alt="Tushar's GitHub Streak" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iktushar01&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
 
-  <!-- Contribution Graph -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iktushar01&theme=radical" alt="GitHub Contribution Graph" />
-  <br>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iktushar01&theme=radical" alt="GitHub Contribution Graph" />
+    </td>
+  </tr>
 
-  <!-- Most Used Commit Languages -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iktushar01&theme=radical" alt="Most Used Languages" />
-  <br>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iktushar01&theme=radical" alt="Most Used Languages" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iktushar01&theme=radical" alt="Repos Per Language" />
+    </td>
+  </tr>
 
-  <!-- Repos Per Language -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iktushar01&theme=radical" alt="Repos Per Language" />
-  <br>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iktushar01&theme=radical" alt="GitHub Stats Card" />
+    </td>
+  </tr>
 
-  <!-- GitHub Stats Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iktushar01&theme=radical" alt="GitHub Stats" />
-  <br>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=iktushar01&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    </td>
+  </tr>
 
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=iktushar01&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</table>
+
 </div>
-
 
 ---
 
