@@ -72,21 +72,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iktushar01&layout=compact&theme=radical" alt="Top Languages" />
     </td>
   </tr>
-
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iktushar01&theme=radical" alt="GitHub Contribution Graph" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iktushar01&theme=radical" alt="Most Used Languages" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iktushar01&theme=radical" alt="Repos Per Language" />
-    </td>
-  </tr>
 </table>
 
 </div>
