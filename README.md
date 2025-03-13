@@ -87,19 +87,6 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iktushar01&theme=radical" alt="Repos Per Language" />
     </td>
   </tr>
-
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iktushar01&theme=radical" alt="GitHub Stats Card" />
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=iktushar01&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-    </td>
-  </tr>
-
 </table>
 
 </div>
