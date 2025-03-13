@@ -1,5 +1,5 @@
 <div align="center style="width: 70%;>
-    <img src="https://github.com/iktushar01/my_personal-file/blob/main/eef76b143584307.627d06916ce10.gif" width="100%" />
+    <img src="https://github.com/iktushar01/my_personal-file/blob/main/Richard%20Moralez.png" width="100%" />
 </div>
 
 ---
