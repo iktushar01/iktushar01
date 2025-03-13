@@ -33,7 +33,6 @@
         <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />       
         <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />         
         <img src="https://img.shields.io/badge/Webflow-%2300A4E4.svg?style=for-the-badge&logo=webflow&logoColor=white" />
-
       </p>
 <br>
       <h3>🛠 Backend & Tools</h3>
