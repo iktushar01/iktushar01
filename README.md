@@ -17,7 +17,6 @@
 ## 🔥 Tech Stack  
 
 <div align="center">
-
 <table style="width: 100%;">
   <tr>
     <td style="width: 100%; padding: 10px; text-align: center;">
