@@ -8,10 +8,10 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 Web Developer focused on Frontend Technologies
-- 📚 Currently mastering **JavaScript (ES6+), React.js, and Firebase**
-- 🌟 Passionate about building clean, user-friendly web apps
-- 🎮 Casual gamer & lifelong learner
+- 👨‍💻 Web Developer specializing in Frontend Development
+- 📚 Focused on **JavaScript (ES6+), React.js, Firebase**
+- ✨ Building beautiful, responsive web experiences
+- 🎯 Gamer | Lifelong Learner | Tech Enthusiast
 
 <br>
 
@@ -19,48 +19,38 @@
 
 ### 🚀 Frontend
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaisyUI-5A29E4?style=flat-square&logo=daisyui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,daisyui,webflow,js,react,reactrouter" alt="Frontend Skills" />
 </p>
 
 ### 🔥 Backend & Hosting
 <p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=firebase,netlify" alt="Backend Skills" />
 </p>
 
 ### 🛠 Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
 </p>
 
 <br>
 
 ## 📚 Currently Learning
 
-- Advanced JavaScript (ES6+, Async, APIs)
-- React.js (Hooks, Context API, Routing)
-- Firebase Authentication & Firestore
+- Deep Dive into JavaScript (ES6+, Async/Await, APIs)
+- Mastering React.js (Hooks, Context API, Advanced Routing)
+- Firebase Authentication & Realtime Database
 
 <br>
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iktushar01&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=iktushar01&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iktushar01&show_icons=true&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=iktushar01&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iktushar01&layout=compact&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iktushar01&layout=compact&theme=radical" width="40%" />
 </p>
 
 <br>
@@ -69,13 +59,13 @@
 
 <p align="center">
   <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://facebook.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -83,8 +73,8 @@
 
 ## ⚡ Fun Fact
 
-> 🌟 I believe in learning by doing. Every project, no matter how small, teaches something new!
+> 🌟 I'm always building side projects to learn something new — small steps, big dreams!
 
 ---
 
-<h3 align="center">🚀 Let's connect and create something amazing!</h3>
+<h3 align="center">✨ Let's connect and create magic together!</h3>
