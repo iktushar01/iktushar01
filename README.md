@@ -15,28 +15,61 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🔥 Tech Stack
 
 <div align="center">
 
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaisyUI-3697E1?style=for-the-badge&logo=daisyui&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webflow-00A4E4?style=for-the-badge&logo=webflow&logoColor=white" />
+<table style="width: 100%;">
+<tr>
+<td style="width: 100%; padding: 10px; text-align: center;">
+<img src="https://github.com/iktushar01/my_personal-file/raw/main/Tired%20Now.gif" alt="Tired Now" />
+</td>
+</tr>
+
+<tr>
+<td style="width: 100%; padding: 10px;">
+  
+### 🚀 Frontend Development
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/DaisyUI-%235A29E4.svg?style=for-the-badge&logo=daisyui&logoColor=white" />
+<img src="https://img.shields.io/badge/Webflow-%2300A4E4.svg?style=for-the-badge&logo=webflow&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React%20Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" />
 </p>
 
-### 🛠 Tools & Backend
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<br>
+
+### 🔥 Backend & Deployment
+<p align="center">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
+
+<br>
+
+### 🛠 Dev Tools
+<p align="center">
+<img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+<br>
+
+### 📚 Currently Learning
+<ul>
+  <li><b>Advanced JavaScript (ES6+)</b></li>
+  <li><b>React.js</b></li>
+  <li><b>Firebase Authentication & Firestore</b></li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 </div>
 
