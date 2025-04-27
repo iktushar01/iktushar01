@@ -19,7 +19,7 @@
 
 ### 🚀 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,daisyui,webflow,js,react,reactrouter" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,webflow,js,react,reactrouter" alt="Frontend Skills" />
 </p>
 
 ### 🔥 Backend & Hosting
