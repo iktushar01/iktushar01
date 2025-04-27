@@ -1,121 +1,90 @@
-# 👋 Hi there, I'm Tushar!
+<h1 align="center">👋 Hey there, I'm Tushar!</h1>
 
-<div align="center">
-  <img src="https://github.com/iktushar01/my_personal-file/raw/main/Tired%20Now.gif" alt="Tushar Coding" width="70%" />
-</div>
+<p align="center">
+  <img src="https://github.com/iktushar01/my_personal-file/raw/main/Tired%20Now.gif" alt="Coding Tushar" width="60%" />
+</p>
 
----
+<br>
 
 ## 🚀 About Me
 
-- 🎓 Web Developer | Frontend Focused
-- 📚 Currently diving deep into **JavaScript (ES6+)**, **React.js**, and **Firebase**
-- 🛠 Love building clean, responsive websites
-- 🎮 Casual gamer who believes in learning through fun!
-
----
-
-## 🔥 Tech Stack
-
-<div align="center">
-
-<table style="width: 100%;">
-<tr>
-<td style="width: 100%; padding: 10px; text-align: center;">
-<img src="https://github.com/iktushar01/my_personal-file/raw/main/Tired%20Now.gif" alt="Tired Now" />
-</td>
-</tr>
-
-<tr>
-<td style="width: 100%; padding: 10px;">
-  
-### 🚀 Frontend Development
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/DaisyUI-%235A29E4.svg?style=for-the-badge&logo=daisyui&logoColor=white" />
-<img src="https://img.shields.io/badge/Webflow-%2300A4E4.svg?style=for-the-badge&logo=webflow&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/React%20Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" />
-</p>
+- 👨‍💻 Web Developer focused on Frontend Technologies
+- 📚 Currently mastering **JavaScript (ES6+), React.js, and Firebase**
+- 🌟 Passionate about building clean, user-friendly web apps
+- 🎮 Casual gamer & lifelong learner
 
 <br>
 
-### 🔥 Backend & Deployment
-<p align="center">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" />
+## 💻 Tech Stack
+
+### 🚀 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaisyUI-5A29E4?style=flat-square&logo=daisyui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
+</p>
+
+### 🔥 Backend & Hosting
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+</p>
+
+### 🛠 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
 <br>
-
-### 🛠 Dev Tools
-<p align="center">
-<img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-<br>
-
-### 📚 Currently Learning
-<ul>
-  <li><b>Advanced JavaScript (ES6+)</b></li>
-  <li><b>React.js</b></li>
-  <li><b>Firebase Authentication & Firestore</b></li>
-</ul>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## 📚 Currently Learning
 
-- 🚀 **React.js** (Components, Hooks, Routing)
-- 🔥 **Firebase** (Authentication, Firestore)
-- 🧠 **Advanced JavaScript** (ES6+, Async, APIs)
+- Advanced JavaScript (ES6+, Async, APIs)
+- React.js (Hooks, Context API, Routing)
+- Firebase Authentication & Firestore
 
----
+<br>
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iktushar01&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=iktushar01&theme=tokyonight" width="48%" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=iktushar01&show_icons=true&theme=radical&count_private=true" alt="Tushar's GitHub Stats" width="45%" />
-<img src="https://streak-stats.demolab.com/?user=iktushar01&theme=radical" alt="GitHub Streak" width="45%" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iktushar01&layout=compact&theme=radical" alt="Top Languages" width="50%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iktushar01&layout=compact&theme=tokyonight" width="40%" />
+</p>
 
-</div>
+<br>
 
----
-
-## 🌍 Connect With Me
+## 🌍 Connect with Me
 
 <p align="center">
   <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-563675?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   </a>
   <a href="https://facebook.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
+<br>
+
+## ⚡ Fun Fact
+
+> 🌟 I believe in learning by doing. Every project, no matter how small, teaches something new!
+
 ---
 
-## ⚡ Fun Fact  
-
-💡 *I love exploring new tech, creating cool projects, and playing casual games for fun!* 🎮
-
----
-
-### 🚀 *Let's build something amazing together!*
+<h3 align="center">🚀 Let's connect and create something amazing!</h3>
