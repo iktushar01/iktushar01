@@ -24,7 +24,7 @@
 
 ### 🔥 Backend & Hosting
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,netlify" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=firebase,netlify,express,mongodb" alt="Backend Skills" />
 </p>
 
 ### 🛠 Tools
