@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/iktushar01/my_personal-file/raw/main/Tired%20Now.gif" alt="Coding Tushar" width="60%" />
 </p>
-
+.
 <br>
 
 ## 🚀 About Me
