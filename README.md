@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Web Developer | MERN Stack Learner | Tech Explorer</h3>
 
 <p align="center">
-  <img src="[https://i.postimg.cc/909nCHyh/Black-and-Yellow-Web-Developer-Linked-In-Banner-3.png](https://i.postimg.cc/909nCHyh/Black-and-Yellow-Web-Developer-Linked-In-Banner-3.png)" alt="Tushar Banner" width="100%" />
+  <img src="https://github.com/iktushar01/my_personal-file/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(3).png" alt="Tushar Banner" width="100%" />
 </p>
 
 ---
