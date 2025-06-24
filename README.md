@@ -1,48 +1,48 @@
-<h1 align="center">👋 Hey there, I'm Tushar!</h1>
+<h1 align="center">Hey 👋, I'm Tushar</h1>
+<h3 align="center">Frontend Web Developer | MERN Stack Learner | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://github.com/iktushar01/my_personal-file/raw/main/Tired%20Now.gif" alt="Coding Tushar" width="60%" />
+  <img src="https://i.postimg.cc/909nCHyh/Black-and-Yellow-Web-Developer-Linked-In-Banner-3.png" alt="Tushar Banner" width="100%" />
 </p>
-.
-<br>
+
+---
 
 ## 🚀 About Me
 
-- 👨‍💻 Web Developer specializing in Frontend Development
-- 📚 Focused on **JavaScript (ES6+), React.js, Firebase**
-- ✨ Building beautiful, responsive web experiences
-- 🎯 Gamer | Lifelong Learner | Tech Enthusiast
+- 👨‍💻 Frontend Developer passionate about building responsive and accessible UIs
+- 💡 Constantly exploring the **MERN Stack**
+- 🎮 Gamer | 📖 Lifelong Learner | 🧠 Curious Mind
 
-<br>
+---
 
-## 💻 Tech Stack
+## 🧰 Tech Toolbox
 
-### 🚀 Frontend
+### 🖥️ Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,webflow,js,react,reactrouter" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,reactrouter,webflow" />
 </p>
 
-### 🔥 Backend & Hosting
+### 🧪 Backend & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,netlify,express,mongodb" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=express,mongodb,firebase,netlify" />
 </p>
 
-### 🛠 Tools
+### 🛠️ Tools & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-<br>
+---
 
-## 📚 Currently Learning
+## 📚 Currently Leveling Up
 
-- Deep Dive into JavaScript (ES6+, Async/Await, APIs)
-- Mastering React.js (Hooks, Context API, Advanced Routing)
-- Firebase Authentication & Realtime Database
+- ✨ JavaScript ES6+ (Async/Await, Fetch API, Modular Code)
+- ⚛️ React.js (Hooks, Context API, Performance Optimization)
+- 🔐 Firebase Auth & Realtime Database
 
-<br>
+---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iktushar01&show_icons=true&theme=radical" width="48%" />
@@ -53,13 +53,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iktushar01&layout=compact&theme=radical" width="40%" />
 </p>
 
-<br>
+---
 
-## 🌍 Connect with Me
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://facebook.com/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -69,12 +69,10 @@
   </a>
 </p>
 
-<br>
+---
 
 ## ⚡ Fun Fact
 
-> 🌟 I'm always building side projects to learn something new — small steps, big dreams!
+> I’m not just building websites — I’m building skills, confidence, and opportunities.
 
----
-
-<h3 align="center">✨ Let's connect and create magic together!</h3>
+<h3 align="center">✨ Let’s connect & build something amazing together!</h3>
