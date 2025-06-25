@@ -11,7 +11,7 @@
 
 - 👨‍💻 Frontend Developer passionate about building responsive and accessible UIs
 - 💡 Constantly exploring the **MERN Stack**
-- 🎮 Gamer | 📖 Lifelong Learner | 🧠 Curious Mind
+- 📖 Lifelong Learner | 🧠 Curious Mind
 
 ---
 
