@@ -61,10 +61,10 @@
   <a href="https://yourwebsite.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://facebook.com/yourprofile" target="_blank">
+  <a href="https://www.facebook.com/ibrahim.khalil.tushar.2024" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/iktushar01" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
