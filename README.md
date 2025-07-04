@@ -21,7 +21,7 @@
 
 ### Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,redux,nextjs" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" alt="Frontend Technologies" />
 </p>
 
 ### Backend & Databases
