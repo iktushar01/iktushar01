@@ -13,7 +13,7 @@
 - 👨‍💻 Frontend Developer passionate about building responsive and accessible UIs
 - 🌱 Currently learning **MERN Stack** (MongoDB, Express, React, Node.js)
 - 💡 Enthusiastic about clean code and modern web technologies
-- 📖 Lifelong Learner | 🧠 Curious Mind | 🏗️ Project Builder.
+- 📖 Lifelong Learner | 🧠 Curious Mind | 🏗️ Project Builder
 
 ---
 
