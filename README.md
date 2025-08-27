@@ -83,6 +83,6 @@
 
 ## ⚡ Fun Fact
 
-> "I'm not just building websites — I'm constructing digital experiences that solve real problems while continuously expanding my developer toolkit."
+> "I'm not just building websites — I'm constructing digital experiences that solve real world problems while continuously expanding my developer toolkit."
 
 <h3 align="center">✨ Let's connect and build something amazing together!</h3>
