@@ -61,19 +61,19 @@
 
 ## 💼 Portfolio & Projects
 
-🔗 [Check out my portfolio](https://iktushar-portfolio.netlify.app/) to see my latest projects and work!
+🔗 [Check out my portfolio](https://iktushar01.netlify.app/) to see my latest projects and work!
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://iktushar-portfolio.netlify.app/" target="_blank">
+  <a href="https://iktushar01.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/iktushar01" target="_blank">
+<!--   <a href="https://linkedin.com/in/iktushar01" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  </a> -->
   <a href="https://www.facebook.com/ibrahim.khalil.tushar.2024" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
