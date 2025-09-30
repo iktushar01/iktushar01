@@ -19,6 +19,11 @@
 
 ## 🛠️ Tech Stack
 
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python" alt="Programming Languages" />
+</p>
+
 ### Frontend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" alt="Frontend Technologies" />
@@ -34,7 +39,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,figma" alt="Tools" />
 </p>
 
----
 
 ## 📈 GitHub Stats
 
