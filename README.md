@@ -51,13 +51,20 @@
 
 <hr/>
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br>
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iktushar01&theme=radical&border_radius=5" alt="GitHub Streak" /></a>
-<br/>
+---
 
-[![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=iktushar01&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10)](https://github.com/iktushar01/github-readme-stats)
+## 📈 GitHub Stats
+<div align="center">
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=iktushar01&show_icons=true&theme=radical&count_private=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=iktushar01&theme=radical" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iktushar01&layout=compact&theme=radical" />
+
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iktushar01&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+---
 
 <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iktushar01&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="top langs" />
