@@ -49,7 +49,7 @@
 
 <h2 align="center">🐍 GitHub Contribution Snake</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iktushar01/iktushar01/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  ![Snake animation](https://raw.githubusercontent.com/iktushar01/iktushar01/output/github-contribution-grid-snake.svg)
 </p>
 
 <hr/>
