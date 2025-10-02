@@ -45,13 +45,13 @@
     <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,netlify,vercel,linux,windows,notion" /><br>
 </div>
 
-<hr/>
+<!-- <hr/>
 
 <h2 align="center">🐍 GitHub Contribution Snake</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/iktushar01/iktushar01/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+</p> -->
 
 <hr/>
 
@@ -63,8 +63,6 @@
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=iktushar01&theme=radical" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iktushar01&layout=compact&theme=radical" />
 
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iktushar01&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 <hr/>
