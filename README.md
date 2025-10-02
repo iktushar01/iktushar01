@@ -31,12 +31,12 @@
 
 ### Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,jwt" alt="Backend Technologies" />
 </p>
 
 ### Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,figma" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,figma,postman" alt="Tools" />
 </p>
 
 
