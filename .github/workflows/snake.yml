@@ -9,11 +9,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      # Step 1: Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Step 2: Generate the snake SVG
+      - name: Generate snake animation
+        uses: Platane/snk@master
         with:
           github_user_name: iktushar01
           outputs: dist/github-contribution-grid-snake.svg
 
+      # Step 3: Push snake animation to output branch
       - name: Push snake animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
