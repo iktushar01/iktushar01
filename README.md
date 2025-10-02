@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tushar!;" />
 </h1>
 
+<p align="center">
+  <img src="https://github.com/iktushar01/my_personal-file/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(3)%20(1).png?raw=true" alt="Tushar Banner" width="100%" />
+</p>
+
 <h3 align="center">A passionate Frontend Web Developer & MERN Stack Learner from Bangladesh</h3>
 
 <br/>
@@ -12,11 +16,11 @@
  
  🔭 Currently exploring ***MERN Stack*** and working on full-stack projects  
  
- 🌱 I’m learning **Node.js, Next.js, GraphQL, Firebase, Authentication**  
+ 🌱 Learning **Node.js, Next.js, GraphQL, Firebase, Authentication**  
 
  💬 Ask me about **Frontend Development, React, JavaScript, Tailwind CSS... or anything [here](https://github.com/iktushar01/iktushar01/issues)**  
 
- ⚡ Fun fact **"I'm not just building websites — I'm creating digital experiences 🚀"**
+ ⚡ Fun fact → **"I'm not just building websites — I'm creating digital experiences 🚀"**
  
  </div>
  
@@ -32,28 +36,26 @@
   </a>
 </div>
 
- <hr/>
- 
+<hr/>
+
 <h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,nodejs,express,mongodb,firebase,nextjs,python,c" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,nextjs,nodejs,express,mongodb,firebase,python,c" /><br>
     <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,netlify,vercel,linux,windows,notion" /><br>
 </div>
 
-<br/>
 <hr/>
 
 <h2 align="center">🐍 GitHub Contribution Snake</h2>
 <p align="center">
-  <img src="https://github.com/iktushar01/iktushar01/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/iktushar01/iktushar01/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <hr/>
 
----
-
-## 📈 GitHub Stats
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br>
 <div align="center">
 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=iktushar01&show_icons=true&theme=radical&count_private=true" />
@@ -61,15 +63,6 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iktushar01&layout=compact&theme=radical" />
 
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iktushar01&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
-<br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iktushar01&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="top langs" />
-
-<br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iktushar01&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
