@@ -32,7 +32,6 @@
 ### Backend & Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Technologies" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Json_Web_Token_logo.svg/512px-Json_Web_Token_logo.svg.png" width="40" alt="JWT" />
 </p>
 
 ### Tools & Platforms
