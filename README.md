@@ -8,15 +8,15 @@
   <img src="https://github.com/iktushar01/my_personal-file/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(3)%20(1).png?raw=true" alt="Tushar Banner" width="100%" />
 </p>
 
-<h3 align="center">A passionate Frontend Web Developer & MERN Stack Learner from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 Currently exploring ***MERN Stack*** and working on full-stack projects  
+ 🔭 Currently exploring ***Next.js*** and working on full-stack projects  
  
- 🌱 Learning **Node.js, Next.js, GraphQL, Firebase, Authentication**  
+ 🌱 Learning **SQL database, Next.js, Go**  
 
  💬 Ask me about **Frontend Development, React, JavaScript, Tailwind CSS... or anything [here](https://github.com/iktushar01/iktushar01/issues)**  
 
@@ -44,14 +44,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,nextjs,nodejs,express,mongodb,firebase,python,c" /><br>
     <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,netlify,vercel,linux,windows,notion" /><br>
 </div>
-
-<!-- <hr/>
-
-<h2 align="center">🐍 GitHub Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iktushar01/iktushar01/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p> -->
 
 <hr/>
 
