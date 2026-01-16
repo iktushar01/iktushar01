@@ -56,9 +56,9 @@
 <br>
 <div align="center">
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=iktushar01&show_icons=true&theme=radical&count_private=true" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=iktushar01&theme=radical" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iktushar01&layout=compact&theme=radical&langs_count=30" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=iktushar01&show_icons=true&theme=radical&count_private=true&cache_seconds=21600" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=iktushar01&theme=radical&cache_seconds=21600" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iktushar01&layout=compact&theme=radical&langs_count=10&cache_seconds=21600" />
 
 </div>
 
