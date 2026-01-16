@@ -41,9 +41,14 @@
 <h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,nextjs,nodejs,express,postgres" /><br>
-    <img src="https://skillicons.dev/icons?i=prisma,mongodb,firebase,git,github,vscode,figma,postman,vercel,linux" /><br>
+    <!-- Frontend -->
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,webflow,wordpress" /><br>
+    <!-- Backend -->
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,firebase,npm,c,py" /><br>
+    <!-- Tools -->
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,ps,notion,vercel,windows" /><br>
 </div>
+
 
 <hr/>
 
