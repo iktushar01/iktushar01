@@ -1,11 +1,11 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iktushar01.iktushar01" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iktushar01.iktushar01&cache_seconds=21600" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tushar!;" />
 </h1>
 
 <p align="center">
-  <img src="https://github.com/iktushar01/my_personal-file/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(3)%20(1).png?raw=true" alt="Tushar Banner" width="100%" />
+  <img src="https://github.com/iktushar01/my_personal-file/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(3)%20(1).png?raw=true" alt="Tushar Banner" width="100%"&cache_seconds=21600 />
 </p>
 
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
