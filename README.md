@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=E040FB&center=true&vCenter=true&random=false&width=600&height=60&lines=Hey+there!+I'm+Tushar+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;Crafting+Digital+Experiences+%F0%9F%8C%90;Open+to+Exciting+Opportunities+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=E040FB&center=true&vCenter=true&random=false&width=600&height=60&lines=Hey+there!+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;Crafting+Digital+Experiences+%F0%9F%8C%90;Open+to+Exciting+Opportunities+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
@@ -67,7 +67,7 @@ const tushar = {
   <a href="mailto:iktushar01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/iktushar01" target="_blank">
+  <a href="https://www.linkedin.com/in/iktushar001" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="https://www.facebook.com/iktushar01" target="_blank">
@@ -126,27 +126,17 @@ const tushar = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iktushar01&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" />
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/iktushar01">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iktushar01&repo=your-project-1&theme=radical&hide_border=true&bg_color=0d1117&title_color=e040fb&icon_color=e040fb&text_color=ffffff" />
+  <a href="https://github.com/iktushar01/Acadex-client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iktushar01&repo=Acadex-client&theme=radical&hide_border=true&bg_color=0d1117&title_color=e040fb&icon_color=e040fb&text_color=ffffff" />
   </a>
   &nbsp;
-  <a href="https://github.com/iktushar01">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iktushar01&repo=your-project-2&theme=radical&hide_border=true&bg_color=0d1117&title_color=e040fb&icon_color=e040fb&text_color=ffffff" />
+  <a href="https://github.com/iktushar01/Store-Xen">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iktushar01&repo=Store-Xen&theme=radical&hide_border=true&bg_color=0d1117&title_color=e040fb&icon_color=e040fb&text_color=ffffff" />
   </a>
 </div>
-
-> 💡 *Replace `your-project-1` and `your-project-2` with your actual repo names!*
 
 ---
 
