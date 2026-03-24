@@ -1,10 +1,11 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iktushar01.iktushar01&cache_seconds=21600&left_color=302b63&right_color=e040fb" />
+
+<br/>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tushar&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=60&descSize=20&animation=twinkling" width="100%" />
 </div>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iktushar01.iktushar01&cache_seconds=21600&left_color=302b63&right_color=e040fb" />
-
-<br/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -14,9 +15,9 @@
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/iktushar01/my_personal-file/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(3)%20(1).png?raw=true" alt="Tushar Banner" width="100%" style="border-radius: 12px;" />
-</p>
+</p> -->
 
 ---
 
