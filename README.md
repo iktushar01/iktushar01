@@ -127,6 +127,7 @@ const tushar = {
 
 ---
 
+
 ## 🚀 Featured Projects
 
 <div align="center">
