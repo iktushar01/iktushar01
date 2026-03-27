@@ -25,7 +25,7 @@
 
 ```typescript
 const tushar = {
-  name:       "Ismail Khan Tushar",
+  name:       "Ibrahim Khalil Tushar",
   location:   "Bangladesh 🇧🇩",
   role:       "Full Stack Web Developer",
   current:    ["Next.js", "Go", "SQL Databases"],
