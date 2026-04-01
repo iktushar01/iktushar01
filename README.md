@@ -131,9 +131,6 @@ const tushar = {
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/iktushar01/Acadex-client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iktushar01&repo=Acadex-client&theme=radical&hide_border=true&bg_color=0d1117&title_color=e040fb&icon_color=e040fb&text_color=ffffff" />
-  </a>
   &nbsp;
   <a href="https://github.com/iktushar01/Store-Xen">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=iktushar01&repo=Store-Xen&theme=radical&hide_border=true&bg_color=0d1117&title_color=e040fb&icon_color=e040fb&text_color=ffffff" />
