@@ -110,32 +110,22 @@ const tushar = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iktushar01&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=e040fb&icon_color=e040fb&text_color=ffffff&cache_seconds=21600" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iktushar01&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e040fb&text_color=ffffff&langs_count=8&cache_seconds=21600" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=iktushar01&theme=radical&hide_border=true&background=0D1117&ring=E040FB&fire=E040FB&currStreakLabel=E040FB&cache_seconds=21600" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iktushar01&theme=radical&hide_border=true&background=0d1117&ring=e040fb&fire=e040fb&currStreakLabel=e040fb" alt="GitHub Streak" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iktushar01&bg_color=0d1117&color=e040fb&line=302b63&point=e040fb&hide_border=true" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iktushar01&theme=radical" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iktushar01&theme=radical" height="180px" />
 </div>
 
----
-
-
-## 🚀 Featured Projects
+<br/>
 
 <div align="center">
-  &nbsp;
-  <a href="https://github.com/iktushar01/Store-Xen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iktushar01&repo=Store-Xen&theme=radical&hide_border=true&bg_color=0d1117&title_color=e040fb&icon_color=e040fb&text_color=ffffff" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iktushar01&bg_color=0d1117&color=e040fb&line=302b63&point=e040fb&hide_border=true&area=true" width="95%" />
 </div>
+
 
 ---
 
