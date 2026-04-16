@@ -31,7 +31,7 @@ const tushar = {
   current:    ["Next.js", "Go", "SQL Databases"],
   passions:   ["Clean Code", "UI/UX Design", "Performance Optimization"],
   funFact:    "I'm not just building websites — I'm crafting digital experiences 🚀",
-  available:  true // Open to work!(remote)
+  available:  true // Open to work!
 };
 ```
 
