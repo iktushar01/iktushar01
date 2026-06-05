@@ -68,7 +68,7 @@ const tushar = {
   <a href="mailto:iktushar01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/iktushar001" target="_blank">
+  <a href="https://www.linkedin.com/in/iktushar01" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="https://www.facebook.com/iktushar01" target="_blank">
