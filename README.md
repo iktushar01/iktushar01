@@ -15,10 +15,6 @@
 
 <br/>
 
-<!-- <p align="center">
-  <img src="https://github.com/iktushar01/my_personal-file/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(3)%20(1).png?raw=true" alt="Tushar Banner" width="100%" style="border-radius: 12px;" />
-</p> -->
-
 ---
 
 ## 🧑‍💻 About Me
